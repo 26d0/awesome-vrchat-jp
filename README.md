@@ -38,7 +38,7 @@
 | ツール名 | 説明 | 特徴 |
 |----------|------|------|
 | [Modular Avatar](https://modular-avatar.nadena.dev/) | アバター改変支援ツール | 簡単な衣装着せ替え、高度なカスタマイズ機能 |
-| [lilToon](https://lilxyzw.github.io/lilToon/) | 高機能シェーダー | 多機能・高品質・Quest対応 |
+| [lilToon](https://lilxyzw.github.io/lilToon/) | 高機能シェーダー | 殆どの人気アバターで使用。 |
 
 ### 🌍 ワールド向け
 | ツール名 | 説明 | 特徴 |
