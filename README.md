@@ -75,6 +75,7 @@
 |----------|------|------|-----|
 | [iwaSync](https://booth.pm/ja/items/2666275) | 動画プレイヤー | 各種サイトに対応 | ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Donation](https://img.shields.io/badge/-Donation-yellow) |
 | [YamaPlayer](https://github.com/koorimizuw/YamaPlayer) | 動画プレイヤー | リッチなUI | ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Donation](https://img.shields.io/badge/-Donation-yellow) |
+| [QvPen](https://booth.pm/ja/items/1555789) | 定番ペンツール | コライダー対応、高機能 | ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Donation](https://img.shields.io/badge/-Donation-yellow) |
 | [UdonSharp](https://github.com/vrchat-community/UdonSharp) | C#ライク開発言語 | 強力なワールドギミック作成 | ![Free](https://img.shields.io/badge/-Free-brightgreen) |
 
 ## 🎪 イベント
