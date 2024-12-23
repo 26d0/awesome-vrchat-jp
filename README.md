@@ -52,8 +52,8 @@
 | ツール名 | 説明 | 特徴 | 💰 |
 |----------|------|------|-----|
 | [OVR Advanced Settings](https://store.steampowered.com/app/1009850/OVR_Advanced_Settings/) | VR空間調整ツール | プレイスペース調整、モーション設定 | ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Donation](https://img.shields.io/badge/-Donation-yellow) |
+| [OyasumiVR](https://store.steampowered.com/app/2538150/OyasumiVR__VR_Sleeping_Utilities/) | VR睡眠支援ツール | 自動シャットダウン、姿勢監視 | ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Donation](https://img.shields.io/badge/-Donation-yellow) |
 | [fpsVR](https://store.steampowered.com/app/908520/fpsVR/) | VRパフォーマンスモニター | フレームレート監視、システム情報表示 | ![Paid](https://img.shields.io/badge/-Paid-red) |
-| [XSOverlay](https://store.steampowered.com/app/1173510/XSOverlay) | デスクトップオーバーレイ | メディア操作、通知表示 | ![Paid](https://img.shields.io/badge/-Paid-red) |
 
 ## 🛠️ 改変・開発ツール
 ### ⚙️ 基本ツール
