@@ -77,11 +77,6 @@
 | [QvPen](https://booth.pm/ja/items/1555789) | 定番ペンツール | コライダー対応、高機能 | ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Donation](https://img.shields.io/badge/-Donation-yellow) |
 | [UdonSharp](https://github.com/vrchat-community/UdonSharp) | C#ライク開発言語 | 強力なワールドギミック作成 | ![Free](https://img.shields.io/badge/-Free-brightgreen) |
 
-## 🎪 イベント
-| イベント名 | 説明 | 開催頻度 | 💰 |
-|-----------|------|----------|-----|
-| [Virtual Market](https://event.vket.com/) | 世界最大級のVRイベント | 年2-3回 | ![Free](https://img.shields.io/badge/-Free-brightgreen) |
-
 ## 📚 ドキュメント
 ### 📱 Quest対応
 | ドキュメント | 説明 | 💰 |
@@ -100,3 +95,4 @@
   [Pull Request](https://github.com/26d0/awesome-vrchat-jp/pulls)でお待ちしています！
 
 </div>
+
