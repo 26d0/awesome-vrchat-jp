@@ -7,6 +7,9 @@
   [![Last Updated](https://img.shields.io/github/last-commit/26d0/awesome-vrchat-jp?label=Last%20Updated&style=flat-square)](https://github.com/26d0/awesome-vrchat-jp/commits/main)
   [![VRChat](https://img.shields.io/badge/VRChat-Community-blue?style=flat-square&logo=vrchat)](https://vrchat.com)
 
+
+[![Discord](https://img.shields.io/discord/1311546779895992351?color=5865F3&label=Discord&logo=discord&logoColor=white)](https://discord.gg/SsYvgzr9m9)
+
   VRChatの厳選リソース集 | 日本ユーザーに特化
 </div>
 
