@@ -59,7 +59,6 @@
 ### ⚙️ 基本ツール
 | ツール名 | 説明 | プラットフォーム | 💰 |
 |----------|------|-----------------|-----|
-| [VRChat Creator Companion](https://vrchat.com/home/download) | 公式開発支援ツール | Win/Mac | ![Free](https://img.shields.io/badge/-Free-brightgreen) |
 | [ALCOM](https://vrc-get.anatawa12.com/ja/alcom/) | VCCのオープンソース代替 | Win/Mac/Linux | ![Free](https://img.shields.io/badge/-Free-brightgreen) |
 | [Unity Hub](https://unity.com/ja/download) | Unityエディター管理ツール | Win/Mac/Linux | ![Free](https://img.shields.io/badge/-Free-brightgreen) |
 
